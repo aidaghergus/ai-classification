@@ -1,0 +1,54 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+*.so
+
+# Virtual environment
+venv/
+env/
+.venv/
+.env
+
+# PyTorch model checkpoints
+*.pth
+*.pt
+*.ckpt
+
+# MLflow
+mlruns/
+mlflow.db
+
+# TensorBoard
+runs/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Archives
+*.7z
+*.zip
+*.tar.gz
+
+# Visualizations (generated output)
+visualizations/
+
+# Logs
+*.log
