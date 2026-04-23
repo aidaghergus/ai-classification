@@ -47,8 +47,5 @@ Thumbs.db
 *.zip
 *.tar.gz
 
-# Visualizations (generated output)
-visualizations/
-
 # Logs
 *.log
